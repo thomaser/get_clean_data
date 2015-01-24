@@ -1,11 +1,11 @@
-# get_clean_data
+### get_clean_data
 coursera getting and cleaning data
 
 ---
 
 Getting and Cleaning Data Coursera Course Project
 
-## run_Analysis.R
+# run_Analysis.R
 
 Script does the following:
 
